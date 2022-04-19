@@ -1,0 +1,18 @@
+{
+    "nombre":"Dario",
+    "apellido":"Andrade",
+    "dni": 26082342,
+    "fecha_nac":"22/10/1977",
+    "edad":44,
+    "vive":true,
+    "hijos":[
+        {
+            "nombre_completo":"Adam Andrade",
+            "edad":16
+        },
+        {
+            "nombre_completo":"Fausto Andrade",
+            "edad":10
+        }
+    ]
+}
